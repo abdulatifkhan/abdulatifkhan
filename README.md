@@ -4,4 +4,4 @@ I am Abdulatif from, Tashkent. Doing a Master`s degree Tashkent State University
 ### Skills:
 Linux | PostgreSQL | Node JS | React | JS | HTML | CSS
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulatifkhan55&show_icons=true&theme=algolia)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=abdulatifkhan&show_icons=true&theme=algolia)
