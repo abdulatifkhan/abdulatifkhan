@@ -1,6 +1,6 @@
-## Hi there 👋, Abdullateef Anvarkhani
-### Development
-I am Abdullateefkhan, I studied Full Stack bootcamp developing at "Najot Ta'lim" Learning Center. Currently, I work as a full stack web developer at AbuTech Digital Company.
+## Hi there 👋, Abdulatifkhon Anvarkhonov
+
+I am studying ML, Econometrics.
  
 ### Skills:
  HTML | CSS | JavaScript | Python | NumPy | Pandas | SQL | ML
